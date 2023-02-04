@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477727041433",
+    "project_id": "mentor-app-b3068",
+    "storage_bucket": "mentor-app-b3068.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477727041433:android:01e29801c5998ead385508",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477727041433-kr4o5dplemfek8iktnod3a420uenik43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsZjHxjavnyg4l0P_D6B8HWTCMFvi7L0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477727041433-kr4o5dplemfek8iktnod3a420uenik43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
